@@ -2,7 +2,7 @@
 
 
 ### Education
-Biology, BSc.
+Biology, BSc @ St. Andrews University
 
 ### Work Experience
 Data Analyst @ Rhino Productions
